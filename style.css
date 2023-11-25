@@ -1,0 +1,123 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #F0F0F0;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+header p {
+  font-size: 18px;
+  color: #666;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  color: #333;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 20px;
+  font-size: 16px;
+  color: #444;
+}
+
+footer {
+  background-color: #333;
+  color: #FFF;
+  padding: 20px;
+  text-align: center;
+}
+
+footer h3 {
+  font-size: 18px;
+}
+
+footer p {
+  font-size: 16px;
+}
+
+/* リンクのスタイルを追加 */
+a {
+  text-decoration: none;
+  color: #0077FF;
+}
+
+/* ボタンのスタイルを追加 */
+.button {
+  display: inline-block;
+  background-color: #0077FF;
+  color: #FFF;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+/* ボタンのホバーエフェクト */
+.button:hover {
+  background-color: #0055DD;
+}
+
+/* ヘッダーのスタイル */
+header h1 {
+  font-size: 22px;
+}
+
+header p {
+  font-size: 16px;
+}
+
+/* セクションのスタイル */
+section h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+section p {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+/* リストのスタイル */
+ul {
+  list-style: disc;
+  margin-left: 20px;
+  font-size: 16px;
+  color: #444;
+}
+
+/* フッターのスタイル */
+footer {
+  background-color: #333;
+  color: #FFF;
+  padding: 20px;
+  text-align: center;
+}
+
+footer h3 {
+  font-size: 18px;
+}
+
+footer p {
+  font-size: 16px;
+}
